@@ -1,4 +1,4 @@
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Diltz&label=Profile%20views&color=0e75b6&style=flat-square" alt="Diltz" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diltz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
